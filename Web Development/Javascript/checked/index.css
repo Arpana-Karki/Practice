@@ -1,0 +1,15 @@
+body{
+    font-size:23px;
+    text-align: center;
+}
+
+#submission{
+    font-size: 1em;
+    background-color: rgb(220, 156, 177);
+}
+
+#submission:hover{
+    font-size: 1em;
+    background-color: rgb(192, 125, 148);
+}
+
