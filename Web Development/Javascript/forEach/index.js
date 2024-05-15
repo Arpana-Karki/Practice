@@ -82,4 +82,13 @@ function double(element,index,array){
     array[index]=element*2;
 }
 
+//example 7
+
+let naam=["arpana","rekha","sushma","aayush","arju"];
+naam.forEach(fname);
+naam.forEach(display);
+
+function fname(element,index,array){
+    array[index]=element.charAt(0).toUpperCase() + element.slice(1);
+}
 
