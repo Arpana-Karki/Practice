@@ -16,7 +16,8 @@ const person = {
     says: function(){
         console.log(`Hello! My name is ${this.firstName} ${this.lastName} 😎 .`)
     },
-
+    //this references to the object where "this" is used
+    // "this" keyword doesn't work for arrow functions
 }
 person.says();
 
