@@ -1,0 +1,51 @@
+
+#timeoutBtn{
+    height: 500px;
+    width:auto;
+    display: flex;
+    align-items:center; 
+    justify-content:center;
+
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin:20px;
+}
+
+#startBtn{
+    background-color: hsl(240, 55%, 50%);
+    color: aliceblue;
+    border:none;
+    border-radius: 15px;
+    font-size: 1rem;
+
+}
+
+
+#startBtn:hover{
+    background-color: hsl(240, 55%, 55%);
+}
+
+#startBtn:active{
+    background-color: hsl(240, 55%, 70%);
+}
+
+
+#clearBtn{
+    background-color: hsl(240, 55%, 50%);
+    color: aliceblue;
+    border:none;
+    border-radius: 15px;
+    font-size: 1rem;
+    
+}
+
+#clearBtn:hover{
+    background-color: hsl(0, 95%, 61%);
+}
+
+#clearBtn:active{
+    background-color: hsl(0, 95%, 80%);
+}
+
