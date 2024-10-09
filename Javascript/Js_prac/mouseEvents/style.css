@@ -1,0 +1,30 @@
+body{
+    overflow: hidden;
+    background-color: aliceblue;
+}
+
+#myBox{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 20rem;
+    width: 96vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: cornsilk;
+    padding:20px;
+
+}
+
+#myBtn{
+    height: 6rem;
+    width: 99vw;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(142, 218, 239);
+    font-size: 2rem;
+    font-weight: bold;
+
+}
