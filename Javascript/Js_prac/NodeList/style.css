@@ -1,0 +1,11 @@
+.myButtons{
+    height: 4rem;
+    width: 10rem;
+    margin: 2px;
+    padding: 2px;
+    font-size: 20px;
+    background-color:cadetblue;
+    color: white;
+    border:transparent;
+    border-radius: 30px;
+}
