@@ -33,7 +33,8 @@ btn5.textContent ="btn5";
 document.body.append(btn5);//step2: add the button to the body of the doc
 
 console.log(buttons);
-buttons = document.querySelectorAll(".myButtons");
+buttons = document.querySelectorAll(".myButtons");// we need to update buttons again and again because NodeList won't update to automatically reflect changes
+
 console.log(buttons);
 
 
