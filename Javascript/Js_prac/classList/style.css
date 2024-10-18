@@ -1,0 +1,41 @@
+#heading1{
+    font-size: 3rem;
+    text-align: center;
+    color:white;
+    background-color: hsl(219, 79%, 66%);
+
+}
+
+.hedEnabled{
+    background-color: hsl(219, 79%, 78%);
+}
+
+.hedHoever{
+    /*background-color: hsl(219, 79%, 73%);*/
+    background-color: antiquewhite;
+}
+
+.myButtons{
+    height:10vh;
+    width: 35vw;
+    font-size: 2rem;
+    margin: 4px;
+    padding: 2px;
+    color:white;
+    background-color: hsl(82, 39%, 30%);
+    border: 2px solid transparent;
+    border-radius: 40px;
+}
+
+.enabled{
+    background-color: hsl(82, 39%, 70%);
+}
+
+.hoever{
+    background-color: hsl(82, 39%, 50%);
+}
+
+.disabled{
+    background-color: hsl(34, 15%, 55%);
+}
+
