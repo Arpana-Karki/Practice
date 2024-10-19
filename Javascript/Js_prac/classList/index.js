@@ -11,6 +11,7 @@
 const heading1 = document.getElementById("heading1");
 let buttons = document.querySelectorAll(".myButtons");
 
+//mouseover isnot working for heading1
 heading1.addEventListener("mouseover",event=>{
     event.target.classList.add("hedHoever");
 });
@@ -43,6 +44,7 @@ buttons.forEach(button=>{
     });
 });
 
+// click event isnot working here 
 buttons.forEach(button=>{
     button.addEventListener("click",event=>{
 
