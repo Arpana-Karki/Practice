@@ -1,0 +1,20 @@
+[{
+    "name" :"Rekha",
+    "age": 32,
+    "hobbies" :["reading novel","writing poems", "watching movies","travelling","dancing"]
+    
+},
+{
+    "name" :"Sushma",
+    "age": 34,
+    "hobbies" :[ "watching movies","travelling","knitting","dancing"]
+    
+},
+{
+    "name" :"Nisha",
+    "age": 27,
+    "hobbies" :["reading novel", "watching movies","travelling","dancing","singing","drawing"]
+    
+}
+
+]
